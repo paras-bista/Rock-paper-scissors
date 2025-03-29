@@ -14,7 +14,7 @@ A simple command-line Rock-Paper-Scissors game built with Python.
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/rock-paper-scissors.git
+   git clone https://github.com/paras-bista/Rock-paper-scissors
    ```
 2. Navigate to the project directory:
    ```sh
